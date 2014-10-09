@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyStockApp</string>
+    <string name="default_url">http://www.google.com</string>
+    <string name="default_GO">GO</string>
+    <string name="symbol">Symbol: </string>
+    <string name="name">Name: </string>
+    <string name="price">Price: </string>
+    <string name="volume">Volume: </string>
+    <string name="default_symbol">Symbol: </string>
+    <string name="default_name">Name: </string>
+    <string name="default_price">Price: </string>
+    <string name="default_volume">Volume: </string>
+
+</resources>
