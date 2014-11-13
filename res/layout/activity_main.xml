@@ -59,4 +59,12 @@
         android:text="@string/default_volume"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
+    <TextView
+        android:id="@+id/threadStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/volume_textView"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
 </RelativeLayout>
